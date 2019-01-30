@@ -5,7 +5,7 @@ Integrate the screen below as best as you can.
 - Request the data from the route : https://www.leshabitues.fr/testapi/shops
 - Parse the response
 - Add a loader and error handling in case the network is slow or api is down.
-- You can use AFNetworking, AlamaFire, SwiftyJSON ... or any other pod you might find useful and helpful.
+- You can use AFNetworking, AlamoFire, SwiftyJSON ... or any other pod you might find useful and helpful.
 - Structure with a MVVM pattern
 
 ## Rules to follow
