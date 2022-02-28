@@ -7,6 +7,7 @@ Integrate the screen below as best as you can.
 - Add a loader and error handling in case the network is slow or api is down.
 - You can use AFNetworking, AlamoFire, SwiftyJSON ... or any other pod you might find useful and helpful.
 - Structure with a MVVM pattern
+- No storyboard
 
 ## Rules to follow
 - Code in Swift
