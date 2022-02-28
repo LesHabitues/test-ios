@@ -8,6 +8,7 @@ Integrate the screen below as best as you can.
 - You can use AFNetworking, AlamoFire, SwiftyJSON ... or any other pod you might find useful and helpful.
 - Structure with a MVVM pattern
 - No storyboard
+- [Bonus] Add shop category filter
 
 ## Rules to follow
 - Code in Swift
